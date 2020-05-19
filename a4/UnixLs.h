@@ -1,0 +1,1 @@
+#define TIME_BUFFER_MAX 50
